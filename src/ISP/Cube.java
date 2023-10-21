@@ -1,6 +1,7 @@
 package ISP;
 
 public class Cube implements Shape3D {
+    // наследует только интерфейс Shape3D
     private int length;
 
     public Cube(int length) {

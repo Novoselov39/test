@@ -1,6 +1,9 @@
 package SRP;
 
 public class EmployeeSalaryCalculate {
+        
+    //данный класс создан для реализации принципа SRP
+
     private int baseSalary;
 
     public EmployeeSalaryCalculate(int baseSalary) {

@@ -1,6 +1,7 @@
 package LSP;
 
 public class Rectangle extends QuadRangle {
+    // является наследником QuadRangle и переопределяет area, в данном случае происходит вычисление площади прямоугольника
     private int width;
     private int height;
 

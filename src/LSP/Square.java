@@ -1,6 +1,7 @@
 package LSP;
 
 public class Square extends QuadRangle{
+        // является наследником QuadRangle и переопределяет area, в данном случае происходит вычисление площади квадрата
     private int length;
 
     public Square(int length) {

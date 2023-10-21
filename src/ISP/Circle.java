@@ -1,6 +1,7 @@
 package ISP;
 
 public class Circle implements Shape {
+    // наследует только интерфейс Shape
     private int radius;
 
     public Circle(int radius) {
